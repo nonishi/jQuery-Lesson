@@ -1,0 +1,1 @@
+function addString(str)A
